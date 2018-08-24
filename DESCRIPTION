@@ -1,0 +1,37 @@
+Package: vrrr
+Title: Tools and Utilities for Virtual and Augmented Reality 
+Version: 0.0.1
+Authors@R: person("John", "Coene", email = "jcoenep@gmail.com", role = c("aut", "cre"))
+Description: Tools and utilities for virtual and augmented reality.
+License: MIT + file LICENSE
+Encoding: UTF-8
+LazyData: true
+Imports: 
+    rstudioapi,
+    aframer,
+    arframer,
+    aforce,
+    acharts,
+    ascatter,
+    aenvironment,
+    aphysics,
+    ashake,
+    aparticle,
+    apoint,
+    aextras,
+    crayon,
+    cli,
+    utils
+Remotes:
+    JohhnCoene/aframer.
+    JohhnCoene/arframer
+    JohhnCoene/aforce,
+    JohhnCoene/acharts,
+    JohhnCoene/ascatter,
+    JohhnCoene/aenvironment,
+    JohhnCoene/aphysics,
+    JohhnCoene/ashake,
+    JohhnCoene/aparticle,
+    JohhnCoene/apoint,
+    JohhnCoene/aextras
+RoxygenNote: 6.1.0

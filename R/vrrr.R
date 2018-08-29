@@ -8,7 +8,10 @@ pkgs <- c(
   "aparticle",
   "aphysics",
   "apoint",
-  "ashake"
+  "ashake",
+  "apath",
+  "acurve",
+  "acubemap"
 )
 
 is_attached <- function(x) {

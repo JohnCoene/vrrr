@@ -21,6 +21,7 @@ Imports:
     aextras,
     acurve,
     apath,
+    acubemap,
     crayon,
     cli,
     utils
@@ -37,5 +38,6 @@ Remotes:
     JohhnCoene/apoint,
     JohhnCoene/aextras,
     JohhnCoene/acurve,
-    JohhnCoene/apath
+    JohhnCoene/apath,
+    JohhnCoene/acubemap
 RoxygenNote: 6.1.0

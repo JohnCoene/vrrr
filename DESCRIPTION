@@ -19,7 +19,8 @@ Imports:
     aparticle,
     apoint,
     aextras,
-    vrrr,
+    acurve,
+    apath,
     crayon,
     cli,
     utils
@@ -35,5 +36,6 @@ Remotes:
     JohhnCoene/aparticle,
     JohhnCoene/apoint,
     JohhnCoene/aextras,
-    JohhnCoene/vrrr
+    JohhnCoene/acurve,
+    JohhnCoene/apath
 RoxygenNote: 6.1.0

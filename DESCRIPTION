@@ -22,22 +22,24 @@ Imports:
     acurve,
     apath,
     acubemap,
+    alookat,
     crayon,
     cli,
     utils
 Remotes:
-    JohhnCoene/aframer.
-    JohhnCoene/arframer
-    JohhnCoene/aforce,
-    JohhnCoene/acharts,
-    JohhnCoene/ascatter,
-    JohhnCoene/aenvironment,
-    JohhnCoene/aphysics,
-    JohhnCoene/ashake,
-    JohhnCoene/aparticle,
-    JohhnCoene/apoint,
-    JohhnCoene/aextras,
-    JohhnCoene/acurve,
-    JohhnCoene/apath,
-    JohhnCoene/acubemap
+    JohnCoene/aframer,
+    JohnCoene/arframer,
+    JohnCoene/aforce,
+    JohnCoene/acharts,
+    JohnCoene/ascatter,
+    JohnCoene/aenvironment,
+    JohnCoene/aphysics,
+    JohnCoene/ashake,
+    JohnCoene/aparticle,
+    JohnCoene/apoint,
+    JohnCoene/aextras,
+    JohnCoene/acurve,
+    JohnCoene/apath,
+    JohnCoene/acubemap,
+    JohnCoene/alookat
 RoxygenNote: 6.1.0

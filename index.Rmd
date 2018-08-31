@@ -29,4 +29,9 @@
 # install.packages("devtools")
 devtools::install_github("JohnCoene/vrrr")
 ```
-### [Website](https://aframer.john-coene.com)
+## Example
+
+```{r}
+library(vrrr)
+```
+

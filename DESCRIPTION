@@ -23,6 +23,7 @@ Imports:
     apath,
     acubemap,
     alookat,
+    aarrow,
     crayon,
     cli,
     utils
@@ -41,5 +42,6 @@ Remotes:
     JohnCoene/acurve,
     JohnCoene/apath,
     JohnCoene/acubemap,
-    JohnCoene/alookat
+    JohnCoene/alookat,
+    JohnCoene/aarrow
 RoxygenNote: 6.1.0

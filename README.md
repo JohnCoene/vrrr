@@ -18,6 +18,8 @@
 12. [acurve](https://acurve.john-coene.com)
 13. [apath](https://apath.john-coene.com)
 14. [apath](https://acubemap.john-coene.com)
+14. [alookat](https://github.com/JohnCoene/alookat)
+14. [aarrow](https://github.com/JohnCoene/aarrow)
 
 ## Installation
 
